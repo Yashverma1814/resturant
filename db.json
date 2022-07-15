@@ -1,0 +1,223 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "data": [
+    {
+      "id":1,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nmtymfibyleylblmkxko",
+      "name":"Biryani Badshah",
+      "variety":"Biryani, Mughlai, North Indian",
+      "price": 40,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4.1,
+      "payment":"card, cash, upi"
+    },
+    {
+      "id":2,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ncxr2qhrdhvpkesylwzp",
+      "name":"Suvidha Vegetarian",
+      "variety":"Indian",
+      "price": 25,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4.3,
+      "payment":"cash, upi"
+    },
+    {
+      "id":3,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/t3aisfmr77lncoswnmvy",
+      "name":"McDonalds",
+      "variety":"American",
+      "price": 20,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4.5,
+      "payment":"card, upi"
+    },
+    {
+      "id":4,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bleendl2hdg7ccmrbaf5",
+      "name":"Taco Bell",
+      "variety":"Mexican",
+      "price": 17,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 2.5,
+      "payment":"card, cash"
+    },
+    {
+      "id":5,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/n66lvauefwsijk3dlkeo",
+      "name":"Changezi Chicken",
+      "variety":" Mughlai, Indian",
+      "price": 50,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4.1,
+      "payment":"card"
+    },
+    {
+      "id":6,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wdyunl4ejgsm3i3o9dyp",
+      "name":"Negi Resturant",
+      "variety":" North Indian",
+      "price": 20,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 3.9,
+      "payment":"cash"
+    },
+    {
+      "id":7,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mdl4tnyc8wbvysqxzhnq",
+      "name":"Dominos Pizza",
+      "variety":"Pizzas",
+      "price": 30,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 5,
+      "payment":"upi"
+    },
+    {
+      "id":8,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mdl4tnyc8wbvysqxzhnq",
+      "name":"Burger king",
+      "variety":"American",
+      "price": 35,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 2.1,
+      "payment":"card, cash, upi"
+    },
+    {
+      "id":9,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mdl4tnyc8wbvysqxzhnq",
+      "name":"Burger king",
+      "variety":"American",
+      "price": 23,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 3,
+      "payment":"card, cash"
+    },
+    {
+      "id":10,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mdl4tnyc8wbvysqxzhnq",
+      "name":"Burger king",
+      "variety":"American",
+      "price": 32,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4,
+      "payment":"card, upi"
+    },
+    {
+      "id":11,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nmtymfibyleylblmkxko",
+      "name":"Biryani Badshah",
+      "variety":"Biryani, Mughlai, North Indian",
+      "price": 40,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4.1,
+      "payment":"cash, upi"
+    },
+    {
+      "id":12,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ncxr2qhrdhvpkesylwzp",
+      "name":"Suvidha Vegetarian",
+      "variety":"Indian",
+      "price": 25,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4.3,
+      "payment":"cash, upi"
+    },
+    {
+      "id":13,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/t3aisfmr77lncoswnmvy",
+      "name":"McDonalds",
+      "variety":"American",
+      "price": 20,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4.5,
+      "payment":" upi"
+    },
+    {
+      "id":14,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bleendl2hdg7ccmrbaf5",
+      "name":"Taco Bell",
+      "variety":"Mexican",
+      "price": 17,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 3.3,
+      "payment":"cash"
+    },
+    {
+      "id":15,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/n66lvauefwsijk3dlkeo",
+      "name":"Changezi Chicken",
+      "variety":" Mughlai, Indian",
+      "price": 50,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4.5,
+      "payment":"card"
+    },
+    {
+      "id":16,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wdyunl4ejgsm3i3o9dyp",
+      "name":"Negi Resturant",
+      "variety":" North Indian",
+      "price": 20,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 5,
+      "payment":"card, cash, upi"
+    },
+    {
+      "id":17,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mdl4tnyc8wbvysqxzhnq",
+      "name":"Dominos Pizza",
+      "variety":"Pizzas",
+      "price": 30,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4.3,
+      "payment":"card, cash, upi"
+    },
+    {
+      "id":18,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mdl4tnyc8wbvysqxzhnq",
+      "name":"Burger king",
+      "variety":"American",
+      "price": 35,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 2,
+      "payment":"card, cash, upi"
+    },
+    {
+      "id":19,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mdl4tnyc8wbvysqxzhnq",
+      "name":"Burger king",
+      "variety":"American",
+      "price": 23,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 3,
+      "payment":"cash"
+    },
+    {
+      "id":20,
+      "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mdl4tnyc8wbvysqxzhnq",
+      "name":"Burger king",
+      "variety":"American",
+      "price": 32,
+      "time": "Min $1 - Up to 39 min",
+      "rating": 4.1,
+      "payment":"card"
+    }
+
+
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
